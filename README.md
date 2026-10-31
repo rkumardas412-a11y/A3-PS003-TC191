@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # FED-TRAFFIC
 
 **Federated Traffic-Flow Prediction with Communication-Cost Evaluation** — a dark, responsive research showcase and client-side experiment dashboard built with Next.js 14 App Router, TypeScript, Tailwind CSS, Framer Motion, Recharts, Chart.js and Lucide.
@@ -124,3 +125,11 @@ McMahan et al., *Communication-Efficient Learning of Deep Networks from Decentra
 ## Accessibility and performance notes
 
 The UI uses semantic sections, labelled form controls, keyboard-focusable architecture nodes, chart tooltips and responsive layouts. Chart data is local and static; there are no client API calls. Before a public release, run Lighthouse and an accessibility audit against your actual deployed build, verify color contrast and keyboard interaction, and add a text/table alternative if the charts become a primary source of research evidence.
+=======
+# AIORI-3-HACKATHON-PROJECTS
+## 🎥 Project Video Demonstration
+
+Watch our project presentation and demonstration on YouTube:
+
+https://youtube.com/shorts/N2vQJwc3dt4?si=E9sh-Yg8JyHD_14D
+>>>>>>> origin/main
